@@ -1,0 +1,31 @@
+.container {
+    color: white;
+    background-color: grey;
+    border-radius: 10px;
+    padding: 50px;
+    margin: 50px;
+}
+
+.container input {
+    border-radius: 3px;
+    height: 25px;
+    margin: auto;
+    display: block;
+}
+
+.container button {
+    border-radius: 3px;
+    height: 25px;
+    color: whitesmoke;
+    background-color: darkslategray;
+    box-shadow: 0 5px 5px black;
+    &:hover {
+        color: darkslategray;
+        background-color: whitesmoke;
+        box-shadow: 0 5px 5px white;
+    }
+}
+
+.error {
+    color: pink;
+}
