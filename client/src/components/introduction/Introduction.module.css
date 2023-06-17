@@ -1,0 +1,14 @@
+.container {
+    background: rgba(128, 128, 128, .9);
+    color: darkslategray;
+    padding-bottom: 15px;
+}
+
+.container h2 {
+    color: white;
+    padding-top: 20px;
+}
+
+.container p {
+    padding: 5px 30px 5px 30px;
+}

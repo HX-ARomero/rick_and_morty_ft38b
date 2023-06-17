@@ -1,0 +1,35 @@
+a:link, a:visited, a:active {
+    color: darkslategray;
+  }
+
+.container {
+    background: rgba(128, 128, 128, .9);
+    color: darkslategray;
+}
+
+.container h2 {
+    color: white;
+    padding-top: 20px;
+}
+
+.container p {
+    padding: 5px 30px 5px 30px;
+
+}
+
+.contactContainer {
+    padding: 5px 30px 5px 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contactContainer p {
+    padding-right: 5px;
+}
+
+.container img {
+    width: 20px;
+    height: 20px;
+    display: inline;
+}

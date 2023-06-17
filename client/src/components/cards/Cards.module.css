@@ -1,0 +1,11 @@
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-Content: space-evenly;
+}
+
+.title {
+    background: rgba(128, 128, 128, .8);
+    color: white;
+    padding: 2px;
+ }
